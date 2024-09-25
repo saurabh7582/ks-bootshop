@@ -97,7 +97,7 @@
         "products": [
 
         ],
-        "collection": "latest",
+        "collection": "adidas",
         "limit": 8,
         "recommended_mode": true,
         "recommended_mode_intent": "related",
