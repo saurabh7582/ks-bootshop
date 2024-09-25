@@ -307,55 +307,51 @@
         "item_qp7jPa": {
           "type": "item",
           "settings": {
-            "title": "First Card",
-            "description": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec massa velit, sagittis nec pharetra id, iaculis non sapien.</p>",
-            "btn_text": "Learn more",
-            "btn_url": ""
+            "img": "shopify://shop_images/58262e66c5e9731050280eb16880d5a4.jpg",
+            "title": "Classic Nike Snapback",
+            "description": "<p>Elevate your casual look with this sleek white Nike cap. Features a flat brim and iconic swoosh logo for timeless style.</p>",
+            "btn_text": "$29.99 Shop Now",
+            "btn_url": "shopify://products/nike-swoosh-pro-flat-peak-cap"
           }
         },
         "item_h9wANh": {
           "type": "item",
           "settings": {
-            "title": "Second Card",
-            "description": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec massa velit, sagittis nec pharetra id, iaculis non sapien.</p>",
-            "btn_text": "Learn more",
-            "btn_url": ""
+            "img": "shopify://shop_images/b0ab17055d14298b4adb7499b23cb0bd.jpg",
+            "title": "Urban Explorer Backpack",
+            "description": "<p>Versatile black backpack with multiple compartments. Perfect for daily commutes or weekend adventures. Durable and stylish.</p>",
+            "btn_text": "$59.99 Shop Now",
+            "btn_url": "shopify://products/herschel-iona"
           }
         },
         "item_hAPJWn": {
           "type": "item",
           "settings": {
-            "title": "Third Card",
-            "description": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec massa velit, sagittis nec pharetra id, iaculis non sapien.</p>",
-            "btn_text": "Learn more",
-            "btn_url": ""
+            "img": "shopify://shop_images/0507c91ca02c25cbadad6a2b0e01c914.jpg",
+            "title": "Puma Suede Classic",
+            "description": "<p>Iconic Puma sneakers in bold red. Comfortable suede upper with signature formstrip. A streetwear essential for any wardrobe.</p>",
+            "btn_text": "$79.99 Shop Now",
+            "btn_url": "shopify://products/puma-suede-classic-regal"
           }
         },
         "item_9EkHYL": {
           "type": "item",
           "settings": {
-            "title": "Fourth Card",
-            "description": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec massa velit, sagittis nec pharetra id, iaculis non sapien.</p>",
-            "btn_text": "Learn more",
-            "btn_url": ""
+            "img": "shopify://shop_images/b5176e5151cdf20d15cff3f551274753.jpg",
+            "title": "Adidas Superstar Sneakers",
+            "description": "<p>The legendary shell-toe sneaker. White leather with classic black stripes. Timeless design for both style and comfort.</p>",
+            "btn_text": "$89.99 Shop Now",
+            "btn_url": "shopify://products/adidas-superstar-80s"
           }
         },
         "item_iKKgHJ": {
           "type": "item",
           "settings": {
-            "title": "Fifth Card",
-            "description": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec massa velit, sagittis nec pharetra id, iaculis non sapien.</p>",
-            "btn_text": "Learn more",
-            "btn_url": ""
-          }
-        },
-        "item_Je3xNm": {
-          "type": "item",
-          "settings": {
-            "title": "Sixth Card",
-            "description": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec massa velit, sagittis nec pharetra id, iaculis non sapien.</p>",
-            "btn_text": "Learn more",
-            "btn_url": ""
+            "img": "shopify://shop_images/548e71e82d4b2d3bdd2b739b4872edc9.jpg",
+            "title": "TODDLER CHUCK",
+            "description": "<p>Iconic Puma sneakers in bold red. Comfortable suede upper with signature formstrip. A streetwear essential for any wardrobe.</p>",
+            "btn_text": "$59.99 Shop Now",
+            "btn_url": "shopify://products/converse-toddler-chuck-taylor-all-star-axel-mid"
           }
         }
       },
@@ -364,8 +360,7 @@
         "item_h9wANh",
         "item_hAPJWn",
         "item_9EkHYL",
-        "item_iKKgHJ",
-        "item_Je3xNm"
+        "item_iKKgHJ"
       ],
       "settings": {
         "bg_color": "bg-body",
