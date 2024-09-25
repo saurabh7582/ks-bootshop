@@ -406,7 +406,7 @@
     "html_Y7Cp8x": {
       "type": "html",
       "settings": {
-        "liquid": "<p class=\"alert alert-primary text-center\">Current datetime is: <b>{{ \"now\" | date: \"%Y-%m-%d %H:%M\" }}</b></p>\n\n<iframe class=\"rounded\" src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5458.176837636101!2d7.264440042281333!3d43.69609386612476!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x12cddaa162b4a50b%3A0x77566707bed909ce!2sFontaine%20du%20Soleil!5e0!3m2!1sen!2s!4v1651756644654!5m2!1sen!2s\" width=\"100%\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>",
+        "liquid": "<p class=\"alert alert-primary text-center\">Current datetime is: <b>{{ \"now\" | date: \"%Y-%m-%d %H:%M\" }}</b></p>\n\n<iframe\n    src=\"https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15069.098778043191!2d72.8558824!3d19.2268565!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7b7b576456d77%3A0x7d95984f34b94e68!2sTirnav%20Solutions%20-%20Authorized%20Salesforce%20Partner!5e0!3m2!1sen!2sin!4v1727270175777!5m2!1sen!2sin\"\n    width=\"100%\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\"\n    referrerpolicy=\"no-referrer-when-downgrade\"></iframe>",
         "bg_color": "bg-body",
         "bg_opacity": 100,
         "bg_gradient": "",
@@ -418,9 +418,9 @@
         "container": "container",
         "container_max_width": "",
         "text_align": "text-center",
-        "header_title": "HTML and Liquid",
+        "header_title": "Our Store Location",
         "header_title_font_size": "h3",
-        "header_description": "<p>Add on optional description for this section</p>",
+        "header_description": "<p>you can visit our store anytime </p>",
         "header_description_font_size": "fs-md",
         "pt": 10,
         "pb": 10
